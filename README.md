@@ -1,4 +1,6 @@
 # hello-world
-Hello Github World!
+Hello World!
 
-Gosto de programar em Go lang.
+Não gosto de programar em nemhuma linguagem que não seja visual.
+
+Ando interessado em programação visual com Flow-based Programming.
